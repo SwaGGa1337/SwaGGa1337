@@ -1,16 +1,53 @@
-## Hi there 👋
+![1.png](header.png)
 
-<!--
-**SwaGGa1337/SwaGGa1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=PYTHON+DEVELOPER)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages:
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+### 🗄️ Databases:
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0c5e26?style=for-the-badge&logo=mongodb&logoColor=green)
+
+
+### 🌟 Frameworks:
+
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3eaabf?style=for-the-badge&logo=flask&logoColor=white)
+
+![aiogram](https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+### 👾 Other tools:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-black?style=for-the-badge&logo=github-actions&logoColor=white)
+  
+![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-green.svg?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-169a4e?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%2300adef.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📈 Карьера:
+
+  - 🎓 Был студентом [21 School](https://21-school.ru)
+
+  - Backend-разработчик [EpgService](https://epgservice.ru/)
+  - Backend-разработчик [Vose.ai](https://pornx.co)
+
+### 📞 How to reach me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mp3suuri)
+[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saintsrowm0nkrus@gmail.com)
